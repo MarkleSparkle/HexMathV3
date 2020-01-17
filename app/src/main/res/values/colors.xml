@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#237EE0</color>
+    <color name="colorPrimaryDark">#E023DD</color>
+    <color name="colorAccent">#E08523</color>
+
+    <color name="lime">#23E026</color>
+    <color name="rust">#E08523</color>
+    <color name="cool">#237EE0</color>
+    <color name="alien">#E023DD</color>
+
+    <color name="offLime">#1BB21D</color>
+    <color name="offRust">#B2691B</color>
+    <color name="offCool">#1B64B2</color>
+    <color name="offAlien">#B21BAF</color>
+
+    <color name="unselected">#CCCCCC</color>
+    <color name="comingSoon">#888888</color>
+</resources>
